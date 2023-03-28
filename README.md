@@ -61,7 +61,7 @@ Walking through portfolio outline.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link] [https://jlberbesi.github.io/Microverse-first-module.github.io/](https://jlberbesi.github.io/Microverse-first-module.github.io/)
+- [Live Demo Link] [[https://jlberbesi.github.io/Microverse-first-module.github.io/](https://jlberbesi.github.io/Capstone_project_m1.github.io/)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
