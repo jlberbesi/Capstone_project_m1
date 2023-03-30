@@ -158,7 +158,6 @@ ul {
   color: var(--color-orange);
 }
 
-/* -----Intro----- */
 h1 {
   background-image: url(img/text-clip.jpg);
   background-repeat: repeat;
@@ -205,10 +204,6 @@ h1 {
   bottom: -10px;
   left: 0%;
   transform: translateX(0%);
-}
-
-#about {
-  display: none;
 }
 
 .about-main {
