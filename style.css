@@ -217,11 +217,16 @@ h1 {
 }
 
 .footer-about {
-  background-color: #1B1B1B;
+  background-color: #1b1b1b;
 }
 
 .white {
   color: white;
+}
+
+.hover-border:hover {
+  transition: border 0.7s;
+  border: 2px solid white;
 }
 
 @media only screen and (min-width: 768px) {
@@ -269,8 +274,6 @@ h1 {
 
 @media screen and (max-width: 768px) {
   .gdg {
-    margin-top:10% ;
+    margin-top: 10%;
   }
 }
-
-
