@@ -72,7 +72,7 @@ Walking through portfolio outline.
 To get a local copy up and running, follow these steps.
 
 Use Git or checkout with SVN using the web URL.
-https://github.com/
+git@github.com:jlberbesi/Capstone_project_m1.github.io.git
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
