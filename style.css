@@ -233,10 +233,6 @@ h1 {
   display: none;
 }
 
-.box {
-  display: none;
-}
-
 @media only screen and (min-width: 768px) {
   nav {
     background-color: white;
