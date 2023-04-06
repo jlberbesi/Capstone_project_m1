@@ -233,6 +233,10 @@ h1 {
   display: none;
 }
 
+.box {
+  display: none;
+}
+
 @media only screen and (min-width: 768px) {
   nav {
     background-color: white;
@@ -278,11 +282,24 @@ h1 {
 
 @media screen and (max-width: 768px) {
   .gdg {
-    margin-top: 40%;
+    margin-top: 10%;
     vertical-align: text-bottom;
   }
 
   .display-gray {
     display: block;
+  }
+
+  .box {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ec5242;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  .btn-lg {
+    text-decoration: none;
   }
 }
